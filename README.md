@@ -1,1 +1,1 @@
-# mint-signup-replica
+# mint-sign-up-replica
